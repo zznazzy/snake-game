@@ -24,7 +24,7 @@ A compact, dependency-free Snake game built as a portfolio project to practice: 
 ## Run Locally
 
 1. Clone or download the repo
-2. Open `snake.html` in any modern browser
+2. Open `index.html` in any modern browser
 3. Use arrow keys to move, space to pause, R to restart
 
 ## Game Mechanics
@@ -49,3 +49,4 @@ A compact, dependency-free Snake game built as a portfolio project to practice: 
 - Efficient collision detection and food placement algorithms
 - Smooth difficulty progression system
 - Accessible UI with proper semantic markup
+
